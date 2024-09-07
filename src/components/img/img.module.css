@@ -1,0 +1,13 @@
+.corpo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.corpo img{
+    width: 531px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border-radius: 30px;
+    box-shadow: 10px 10px 10px;
+}

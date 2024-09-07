@@ -1,0 +1,9 @@
+.corpo{
+    width: 100%;
+    color: rgb(19, 17, 17);
+    display: flex;
+    justify-content: center;
+    background-color: rgb(236, 235, 244);
+    border-radius: 18px;
+    box-shadow: 5px 5px 2px;
+}
